@@ -1,3 +1,3 @@
 # TranslationDB
 
-A database that stores metadata of different translations of books.
+A database that stores metadata of different English translations of books.
